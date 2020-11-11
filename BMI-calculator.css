@@ -1,0 +1,20 @@
+body {
+    background-color: lightgrey;
+    text-align: center;
+}
+
+fieldset {
+    background-color: white;
+    padding: 25px;
+    text-align: left;
+}
+
+label.error {
+    color: red;
+    font-weight: bold;
+}
+
+#message {
+    font-size: 2em;
+    font-weight: bold;
+}
